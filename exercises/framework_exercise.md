@@ -84,7 +84,7 @@ Copy from the web page or from right here:
 
 9. Now save and reload this page and see the results. Resize the browser window, notice what happens to the navigation? Go back into VS Code and look closely at the code, do you see the large number of CSS classes that each element has? All those classes are what makes the navbar function, there are also a number of data and aria attributes used as well. Feel free to experiment with the navbar, add some links, or even try to add another pulldown.
 
-10. Lastly, let's look at a Slideshow Carousel. In VS Code, let's copy the current bootstrap-navbar.html and rename the new file to bootstrap-carousel.html. In the new file, clear out the body tag.
+10. Lastly, let's look at a Slideshow Carousel. In VS Code, let's duplicate the current bootstrap-navbar.html and rename the new file to bootstrap-carousel.html. In the new file, clear out the body tag.
 
 11. Now we will add in our **styles.css** into this document.
 
