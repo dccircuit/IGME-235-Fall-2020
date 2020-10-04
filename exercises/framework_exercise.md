@@ -10,29 +10,33 @@ Start by downloading the starter file located here: [Frameworks Starter Files](c
 
 2. Go back to VS Code and look at the code. Notice we have a style.css file in our **css** folder. There are some basic CSS directives applied to our **default-start.html** file, nothing too fancy.
 
-3. The body of the **default-start.html** file is pretty basic. To simplify our development for the exercise, we are not using images, but rely on a third party site called **[placeholder.com](https://placeholder.com/)**, this is a handy utility site that just provides placeholder images to whatever size you want. The remainder of the content is relatively basic, we have an HTML Table in the Main, as well as a basic form (I know we’ve not covered forms, but they are a standard part of web development). 
+3. The body of the **default-start.html** file is pretty basic. To simplify our development for the exercise, we are not using images, but rely on a third party site called **[placeholder.com](https://placeholder.com/)**, this is a handy utility site that just provides placeholder images to whatever size you want. The remainder of the content is relatively basic, we also have an HTML Table in the Main, as well as a basic form (we know we’ve not covered tables or forms, but they are a standard part of web development that you'll encounter at some point). 
 
 ## Part Two - Bootstrap
 
-1. Open a new browser window or tab, and go to https://getbootstrap.com/, click the “**Getting Started**” button on the page. We will be doing the **Quick Start**, and using a *CDN (Content Delivery Network)* and not downloading the framework locally. 
+1. Open a new browser window or tab, and go to https://getbootstrap.com/, click the “**Get started**” button on the page. We will be doing the **Quick Start**, and using a *CDN (Content Delivery Network)* and not downloading the framework locally. 
 
 2. Back in VS Code, make a copy of the **default-start.html** file and rename to **bootstrap.html**, and open this file. 
 
-3. In the **HEAD** section of the **bootstrap.html** file paste the CSS code from the Bootstrap Quick Start into your file (Be sure this line goes BEFORE your style.css):
+3. In the **HEAD** section of the **bootstrap.html** file paste the CSS code from the Bootstrap Quick Start into your file (Be sure it goes BEFORE the link to style.css):
+
+Copy it from the web page or from right here:
 
    ```
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
    ```
 
-4. Next, below the CSS link, paste the following 3 lines of Javascript:
+4. Next, below the CSS link, paste the given 3 lines of Javascript.  
+
+Copy from the web page or from right here:
    
 ```
    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
    ```
    
-5. Now go to your web browser and load the **bootstrap.html** file in a new window or tab. Notice the differences between base styles and the bootstrap applied styles.
+5. Now preview the **bootstrap.html** file in your browser as well (it would be best to open in a new window or tab). Notice the differences between base styles and the bootstrap-applied styles.  It's not a lot, but there are font differences and line-height changes, etc.
 
-6. Base CSS changes are fine, but let's talk about some of the more interesting aspects of having a framework. Let's look at a NavBar and Carousel.
+6. These base CSS changes are fine, but let's talk about some of the more interesting aspects of having a framework. Let's look at a NavBar and a Carousel.
 
 7. In VS Code, copy the bootstrap.html and name the new file bootstrap-navbar.html, and in the new file empty out the body content.
 
