@@ -86,9 +86,11 @@ Copy from the web page or from right here:
 
 10. Lastly, let's look at a Slideshow Carousel. In VS Code, let's duplicate the current bootstrap-navbar.html and rename the new file to bootstrap-carousel.html. In the new file, clear out the body tag.
 
-11. Now we will add in our **styles.css** into this document.
+11. Now we will utilize the #slideshow rules found in our **style.css**.
 
-12. In your Bootstrap window, go to this url: https://getbootstrap.com/docs/4.5/components/carousel/. You can refer to this page for more information about the Carousel, but we'll be putting in some of our own code. The code below is based off the first sample, but I replaced the images with 5 slides from placeholder.com.
+12. Go take a look at this url: https://getbootstrap.com/docs/4.5/components/carousel/. You can refer to this page for more information about the Carousel, but we'll be putting in some of our own code for this next example. The HTML below is based off the first sample, but we've replaced the images with 5 slides from placeholder.com.
+
+Copy and paste this into your body:
 
     ```
     <div id="container">
@@ -122,9 +124,10 @@ Copy from the web page or from right here:
     
     ```
 
-13. Save and load this file in your browser, observer the glory of a fully functional carousel slideshow!
+13. Save and preview this file, observe the glory of a fully functional carousel slideshow!  You'll need to wait about 5 seconds to see it change.
 
 14. Now, can you alter this slideshow and change into a slideshow with controls? The code is on the Bootstrap page, see if you can make that work.
+  - Hint: Note the relationship in the code between the ```id``` of the carousel and the ```href``` values of the next and previous buttons.
 
 
 
