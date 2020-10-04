@@ -40,9 +40,9 @@ Copy from the web page or from right here:
 
 6. These base CSS changes are fine, but let's talk about some of the more interesting aspects of having a framework. Let's look at a NavBar and a Carousel.
 
-7. In VS Code, copy the bootstrap.html and name the new file bootstrap-navbar.html, and in the new file empty out the body content.
+7. In VS Code, duplicate the bootstrap.html and name the new file bootstrap-navbar.html, and in the new file empty out the body content.
 
-8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/4.5/components/navbar/ and we will copy the first example code into our newly empties body:
+8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/4.5/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
 
    ```
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
