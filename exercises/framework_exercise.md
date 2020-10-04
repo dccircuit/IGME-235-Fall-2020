@@ -2,7 +2,7 @@
 
 In this exercise we explore the use of Frameworks in web development. Frameworks are utilized by a large proportion of the web development community, since they offer a quicker development option, as well as provide a similar design language.
 
-Start by downloading the starter file located here: [Frameworks Starter Files]().
+Start by downloading the starter file located here: [Frameworks Starter Files](css_frameworks_demo.zip).
 
 ## Part One - Look over the Default Styles
 
