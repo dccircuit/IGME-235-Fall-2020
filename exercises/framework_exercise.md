@@ -40,7 +40,7 @@ Copy from the web page or from right here:
 
 6. These base CSS changes are fine, but let's talk about some of the more interesting aspects of having a framework. Let's look at a NavBar and a Carousel.
 
-7. In VS Code, duplicate the bootstrap.html and name the new file bootstrap-navbar.html, and in the new file empty out the body content.
+7. In VS Code, duplicate the **bootstrap.html** and name the new file **bootstrap-navbar.html**, and in the new file empty out the body content.
 
 8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/4.5/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
 
@@ -84,7 +84,7 @@ Copy from the web page or from right here:
 
 9. Now save and reload this page and see the results. Resize the browser window, notice what happens to the navigation? Go back into VS Code and look closely at the code, do you see the large number of CSS classes that each element has? All those classes are what makes the navbar function, there are also a number of data and aria attributes used as well. Feel free to experiment with the navbar, add some links, or even try to add another pulldown.
 
-10. Lastly, let's look at a Slideshow Carousel. In VS Code, let's duplicate the current bootstrap-navbar.html and rename the new file to bootstrap-carousel.html. In the new file, clear out the body tag.
+10. Lastly, let's look at a Slideshow Carousel. In VS Code, let's duplicate the current **bootstrap-navbar.html** and rename the new file to **bootstrap-carousel.html**. In the new file, clear out the body tag.
 
 11. Now we will utilize the #slideshow rules found in our **style.css**.
 
@@ -127,7 +127,7 @@ Copy and paste this into your body:
 13. Save and preview this file, observe the glory of a fully functional carousel slideshow!  You'll need to wait about 5 seconds to see it change.
 
 14. Now, can you alter this slideshow and change into a slideshow with controls? The code is on the Bootstrap page, see if you can make that work.
-  - Hint: Note the relationship in the code between the ```id``` of the carousel and the ```href``` values of the next and previous buttons.
+    - Hint: Note the relationship in the code between the ```id``` of the carousel and the ```href``` values of the next and previous buttons.
 
 
 
@@ -135,22 +135,20 @@ Copy and paste this into your body:
 
 1. Open a new browser window or tab, and go to https://materializecss.com/, click the “**Get Started**” button on the page. We will also be using the CDN version of Materialize. 
 
-2. Back in VS Code, make a copy of the **default-start.html** file and rename to materialize.html, and open this file. 
+2. Back in VS Code, make a copy of the **default-start.html** file and rename to **materialize.html**, and open this file. 
 
-3. In the **HEAD** section of the materialize.html file paste the CSS and Javascript code from the CDN section into your file *(Be sure the CSS goes BEFORE your style.css, and JavaScript after)*:
+3. In the **HEAD** section of the **materialize.html** file paste the links to the CSS and Javascript code from the CDN section into your file *(Be sure the link to the CSS goes BEFORE your style.css, and link to the JavaScript AFTER)*:
    
-   ```
+```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-   ```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+```
    
-   
-   
-4. Now go to your web browser and load the **materialize.html** file in a new window or tab. Notice the differences between three files.
+4. Now go to your web browser and load the **materialize.html** file in a new window or tab. Compare the Materialize version to the Bootstrap version to the version without a framework.
 
 5. Notice how just by including the frameworks, the differences can be quite dramatic. What do you notice?
 
-6. Just like the Bootstrap framework, there are similar components, let's take a look at the Navbar. Make a copy of the **materialize.html** and rename the new file to **materialize-navbar.html**, open this file and clear out the body content.
+6. Just like the Bootstrap framework, there are similar components available. Let's take a look at the Navbar. Make a copy of the **materialize.html** and rename the new file to **materialize-navbar.html**, open this file and clear out the body content.
 
 7. Open a web browser tab or window to https://materializecss.com/navbar.html, this is the documentation page for the Materialize Navbar, let's start with the basic Navbar. Copy this code into your **materialize-navbar.html** body.
 
@@ -167,14 +165,14 @@ Copy and paste this into your body:
    </nav>
    ```
 
-8. Notice what makes this nav work, there doesn't appear to be much, now go load this page in your browser. Now you have a responsive navbar. We're skipping the dropdown in the lab, because Materialize requires us to do a little more JavaScript in order to make a dropdown function, but if you're feeling up to it, give it a try. Otherwise, go ahead and try a few of the other navbars from the Materialize page.
+8. Notice what makes this nav work, there doesn't appear to be much, now go load this page in your browser. Now you have a responsive navbar. We're skipping the dropdown feature, because Materialize requires us to do a little more JavaScript in order to make a dropdown function, but if you're feeling up to it, give it a try. Otherwise, go ahead and try a few of the other navbars from the Materialize page.
 
 9. Now let's take a look at the Materialize Carousel. Go to your web browser and open a window or tab to https://materializecss.com/carousel.html. This is the reference page for the Materialize Carousel.
 
 10. in VS Code, make a copy of your **materialize.html** file and rename it to **materialize-carousel.html** and once again, clear out the body. Then add the following code into the body. 
 
     ```
-    <div class="carousel carousel-slider">
+    <div class="carousel">
             <a class="carousel-item" href="#"><img src="https://via.placeholder.com/500x300/0000FF/808080?text=Slide1"></a>
             <a class="carousel-item" href="#"><img src="https://via.placeholder.com/500x300/00AAFF/808080?text=Slide2"></a>
             <a class="carousel-item" href="#"><img src="https://via.placeholder.com/500x300/00FFAA/000000?text=Slide3"></a>
@@ -196,7 +194,7 @@ Copy and paste this into your body:
 
     We won't dwell on what this code means, but it essentially initializes our carousel, without this, nothing happens.
 
-12. Now go back to the web browser and load this page, you should see a fancy looking carousel. Not bad with only a little bit of code. Feel free to try out the other types of carousels, such as the slider carousel.
+12. Now go back to the web browser and load this page, you should see a fancy looking carousel. You may need to click and drag to switch between slides.  Not bad with only a little bit of code! Feel free to try out the other types of carousels, such as the slider carousel.
 
     
 
