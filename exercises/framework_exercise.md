@@ -94,34 +94,28 @@ Copy and paste this into your body:
 
     ```
     <div id="container">
-    	<div id="slideshow">
-    		<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-    			<div class="carousel-inner">
-    				<div class="carousel-item active">
-    					<img src="https://via.placeholder.com/500x300/0000FF/808080?text=Slide1" class="d-block w-100"
-    						alt="...">
-    				</div>
-    				<div class="carousel-item">
-    					<img src="https://via.placeholder.com/500x300/00AAFF/808080?text=Slide2" class="d-block w-100"
-    						alt="...">
-    				</div>
-    				<div class="carousel-item">
-    					<img src="https://via.placeholder.com/500x300/00FFAA/000000?text=Slide3" class="d-block w-100"
-    						alt="...">
-    				</div>
-    				<div class="carousel-item">
-    					<img src="https://via.placeholder.com/500x300/AADD00/000000?text=Slide4" class="d-block w-100"
-    						alt="...">
-    				</div>
-    				<div class="carousel-item">
-    					<img src="https://via.placeholder.com/500x300/22FADA/000000?text=Slide5" class="d-block w-100"
-    						alt="...">
-    				</div>
-    			</div>            
-    		</div>            
-    	</div>
-    </div>
-    
+      <div id="slideshow">
+    	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://via.placeholder.com/500x300/0000FF/808080?text=Slide1" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="https://via.placeholder.com/500x300/00AAFF/808080?text=Slide2" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+               <img src="https://via.placeholder.com/500x300/00FFAA/000000?text=Slide3" class="d-block w-100" alt="...">
+             </div>
+             <div class="carousel-item">
+               <img src="https://via.placeholder.com/500x300/AADD00/000000?text=Slide4" class="d-block w-100" alt="...">
+             </div>
+             <div class="carousel-item">
+               <img src="https://via.placeholder.com/500x300/22FADA/000000?text=Slide5" class="d-block w-100" alt="...">
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
     ```
 
 13. Save and preview this file, observe the glory of a fully functional carousel slideshow!  You'll need to wait about 5 seconds to see it change.
