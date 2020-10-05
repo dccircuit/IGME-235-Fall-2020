@@ -208,10 +208,11 @@ Copy and paste this into your body:
 
 4. Back in VS Code, copy the **navbar-starter.html** file to **fontawesome.html**.
 
-5. In a web browser window or tab, go to https://fontawesome.com/. We will refer back to this site for finding icons. They don't provide a easy to get to CDN link, so we'll use another resource to get a CDN, open a new tab or window and go to https://cdnjs.com/libraries/font-awesome.
+5. In a web browser window or tab, go to https://fontawesome.com/. We will refer back to this site for finding icons. They don't provide an easy-to-get-to CDN link, so we'll use another resource to get a CDN, open a new tab or window and go to https://cdnjs.com/libraries/font-awesome.
 
-6. From cdnjs, copy the first css link, and paste into the HEAD section of your fontawesome.html file, once again, be sure this is before your style.css link.
-   
+6. From cdnjs, copy the first css link (make sure to use the "copy link tag" button so that you get the full HTML) and paste it into the HEAD section of your fontawesome.html file, once again, be sure this is before the link to your style.css link.
+
+This is the URL that you'll be using (but you need to include it in a full link tag)
 ```
    https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
    ```
@@ -224,7 +225,7 @@ Copy and paste this into your body:
    <i class="fab fa-instagram"></i>
    ```
 
-9. Go back to VS Code and your fontawesome.html file. Locate the link for Instagram, and add this code in front of the "Instagram" text for the link, it should now look like the following:
+9. Go back to VS Code and your fontawesome.html file. Locate the link for Instagram, and add this code (and a space) in front of the "Instagram" text for the link, it should now look like the following:
 
    ```
    <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
@@ -232,7 +233,7 @@ Copy and paste this into your body:
 
 10. Save and load the page in a web browser. Notice how the link looks now?
 
-11. Let's add another icon to our **Help** button, go back to the fontawesome site, and now search for "**help**", a large number of results comes back for this simple search term, but we'll pick the "question-circle". Once again, click on the icon and get the code from the "Start Using This Icon" button. 
+11. Let's add another icon to our **Help** button, go back to the fontawesome site, and now search for "**help**", a large number of results comes back for this simple search term, but we'll pick the solid "question-circle". Once again, click on the icon and get the code from the "Start Using This Icon" button. 
 
 12. Back in VS Code, find our help button and add the code to the front of our text:
 
@@ -248,7 +249,9 @@ Copy and paste this into your body:
 
 That's it for now. We recommend taking some time and exploring the documentation for these CSS frameworks to see what else they offer. Hopefully you can see how just a little bit of code within the framework yields impressive results. 
 
-Be sure you upload your work to Banjo, zip up your work and submit the zip file and link to the assignment folder.
+Be sure you upload your work to Banjo, zip up your work and submit the zip file and link to the assignment folder (Since there is no index.html it should load up a list of the files in your directory -- wherever you put it).
+
+We should be able to click to 3 different bootstrap files, 3 materialize files, and a fontawesome file.
 
 
 
