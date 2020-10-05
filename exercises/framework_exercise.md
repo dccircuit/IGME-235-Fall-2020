@@ -194,7 +194,7 @@ Copy and paste this into your body:
 
     We won't dwell on what this code means, but it essentially initializes our carousel, without this, nothing happens.
 
-12. Now go back to the web browser and load this page, you should see a fancy looking carousel. You may need to click and drag to switch between slides.  Not bad with only a little bit of code! Feel free to try out the other types of carousels, such as the slider carousel.
+12. Now go back to the web browser and load this page, you should see a fancy looking carousel. Not bad with only a little bit of code! Feel free to try out the other types of carousels, such as the slider carousel.
 
     
 
@@ -202,9 +202,9 @@ Copy and paste this into your body:
 
 1. For our last part of the lab, we'll take a look at Font Awesome. Font Awesome isn't an extensive style library like the others, but it does provide an important function, which is to provide easy to use iconography for your web site.
 
-2. In VS Code, open the **navbar-starter.html** file. To keep things simple, I have an embedded CSS style that formats our header, nav and main elements on our simple page. 
+2. In VS Code, open the **navbar-starter.html** file. To keep things simple, we have an embedded CSS style that formats our header, nav and main elements on our simple page. 
 
-3. Open this page in a browser window or tab. Observe how it's just a simple page with a header, some text and 2 buttons. It's rather plain, so we'll add some imagery to make our links and options look much better.
+3. Open this page in the browser. Observe how it's just a simple page with a header, some text and 2 buttons. It's rather plain, so we'll add some imagery to make our links and options look much better.
 
 4. Back in VS Code, copy the **navbar-starter.html** file to **fontawesome.html**.
 
@@ -246,7 +246,7 @@ Copy and paste this into your body:
 
 ## Wrap Up
 
-That's it for now. I recommend taking some time and exploring the documentation for these CSS frameworks to see what else they offer. Hopefully you can see how just a little bit of code within the framework yields impressive results. 
+That's it for now. We recommend taking some time and exploring the documentation for these CSS frameworks to see what else they offer. Hopefully you can see how just a little bit of code within the framework yields impressive results. 
 
 Be sure you upload your work to Banjo, zip up your work and submit the zip file and link to the assignment folder.
 
