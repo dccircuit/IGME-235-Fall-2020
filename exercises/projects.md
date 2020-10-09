@@ -33,14 +33,12 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/rcm4155/230/portfolio/
 - https://people.rit.edu/ltd3086/portfolio/
 - https://people.rit.edu/ctb4332/portfolio/
-- https://people.rit.edu/drs4149/portfolio/
-- https://people.rit.edu/wjb5377/portfolio/
 - https://people.rit.edu/acm1551/235/portfolio/
 - https://people.rit.edu/txa7348/235/portfolio/
 - https://people.rit.edu/kle4382/235/portfolio/
 - https://people.rit.edu/cre1467/235/portfolio/
 - https://people.rit.edu/cjm8652/235/portfolio/
-- https://people.rit.edu/ald1289/235/portfolio/
+- https://people.rit.edu/ald1289/portfolio/
 - https://people.rit.edu/dls7470/235/portfolio/
 - http://lightling.xyz/
 - https://people.rit.edu/wsb6157/235/portfolio/
