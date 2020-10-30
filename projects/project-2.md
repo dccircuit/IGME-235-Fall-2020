@@ -2,7 +2,7 @@
 
 ## I. Overview
 
-For this project you (and, optionally, a partner) are creating a JavaScript driven Web application that utilizes a Web service.
+For this project you are creating a JavaScript driven Web application that utilizes a Web service.
 - Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
@@ -121,18 +121,16 @@ For this project you (and, optionally, a partner) are creating a JavaScript driv
 - Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
-- Project proposal with mockup - see myCourses for due date/time. If working together, one submission per team please. Make sure both team members' names are included.
+- Project proposal with mockup - see myCourses for due date/time. 
 - Prototype - You should have a working version of your project for others to provide feedback on.  At a bare minimum, you should demonstrate functionality of your API call with results displayed on screen.  see myCourses for due date/time. 
-- Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+- Final project deliverable - see myCourses for due date/time. 
 
 ## IV. Documentation
 - As with Project 1, include a Documentation page (put the link in the comments field of the dropbox, as well as an easy to find link in the project site itself) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-- If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+
 
 ## V. Grading
-- *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
-
-The grading rubric for this project is visible in myCourses.  You should look it over carefully.  Find it by going to the "Assignments" section and clicking through to the "Project 2 Final Submission" dropbox.
+- The grading rubric for this project is visible in myCourses.  You should look it over carefully.  Find it by going to the "Assignments" section and clicking through to the "Project 2 Final Submission" dropbox.
 
 Furthermore, Complete the Project 2 Assessment Survey. (Not yet created... Ignore until notified by Professsor).
 
