@@ -46,7 +46,8 @@ For this project you are creating a JavaScript driven Web application that utili
     - The Amiibo API*: http://www.amiiboapi.com
         - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
     - REST Countries: https://restcountries.eu/
-    - TheMealDB API: https://www.themealdb.com/api.php
+    - TheMealDB API: https://www.themealdb.com/api.php  
+    **New to the list this Semester:**
     - Ghibli Movie API: https://ghibliapi.herokuapp.com/
     - Pokémon TCG API: https://docs.pokemontcg.io/
     - Pokemon API: https://pokeapi.co/docs/v2
