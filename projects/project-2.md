@@ -38,7 +38,7 @@ For this project you are creating a JavaScript driven Web application that utili
       - Allow the user to "favorite" images and then retrieve them later.
       - Give the user a "Copy" link that copies the URL of the GIF to their clipboard.
     
-#### Specified API Option
+#### Specified API Option (NOW MORE OPTIONS!)
 - You may get familiar with and use one of the APIs from this list:
   - Because APIs change from time to time this is not a guarantee that these APIs will be smooth sailing, but they have been shown to work.
     - Dog API*: https://dog.ceo/dog-api/
@@ -47,6 +47,15 @@ For this project you are creating a JavaScript driven Web application that utili
         - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
     - REST Countries: https://restcountries.eu/
     - TheMealDB API: https://www.themealdb.com/api.php
+    - Ghibli Movie API: https://ghibliapi.herokuapp.com/
+    - Pokémon TCG API: https://docs.pokemontcg.io/
+    - Pokemon API: https://pokeapi.co/docs/v2
+    - Rick and Morty API (REST version): https://rickandmortyapi.com/documentation
+    - Magic the Gathering API: https://docs.magicthegathering.io/
+    - Open Trivia DB API: https://opentdb.com/api_config.php
+    - Discography API: https://www.discogs.com/developers/
+    - Mixcloud (This is a little more complicated): https://www.mixcloud.com/developers/
+    
   - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly well organized. 
         
 #### Choose Your Own API Option
