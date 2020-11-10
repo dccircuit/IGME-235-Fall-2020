@@ -96,7 +96,7 @@ You may format this in any way that you want, but break each bulleted item below
 - Gameplay: Discuss what choices the player will be able to make and what kind of control they have to make those choices.  How will the player learn how to play?  
 - Mockups: Provide at least 2 mockup screens of the game.  They can be hand-drawn sketches captured on a phone camera, Photoshop mockups, etc.  Use <img> tags and reduce the size of the image so that aren't downloaded at ridiculously high resolutions.  (no more than twice the desired pixel dimensions ont he page).
 - Other: Anything else that you like to say, like discuss external libraries you'd like to use, etc.
-- About the developer(s): Give your name/major/minor/year and your skill set/interests.  Partnering?  Explain how and why you'll be working together as a team.
+- About the developer: Give your name/major/minor/year and your skill set/interests.  
 
 Here is a template document of sorts, once used in another class. It contains some extra examples and tips for what we're looking for. You should only really pay attention to the part above the first thick red line:  http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html The rest of it was for another assignment specific to that course.
 
