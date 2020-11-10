@@ -3,12 +3,11 @@
 ## I. Overview
 *Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
 
-- For this project you (and, potentially, a partner) are creating a JavaScript-driven game or experience.
-- You will be proposing an idea and describing it on a nicely formatted "proposal/about" web page which will include the "game treatment" elements described below:
-    - If you work with a partner, only one proposal web page between you will need to be created. 
+- For this project you are creating a JavaScript-driven game or experience.
+- You will be proposing an idea and describing it on a nicely formatted "proposal/about" web page which will include the "game treatment" elements described below: 
 - If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2020/blob/master/exercises/projects.md).
 
-You will use **ONE** of these technology stacks:
+You will use **ONE** (or both) of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
     -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started **OR**
 - **JavaScript & the Browser DOM** - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
@@ -74,12 +73,12 @@ You will use **ONE** of these technology stacks:
 
 ## IV. Milestones
 - Proposal: Post a simple "proposal/about" web page in your banjo account (under project3/about.html would be a good place) that provides the information described in the next section about what you plan to create for your game. - see myCourses dropbox for submission info & the due date
-- Checkpoint: Create a working draft of the project. Post it to the #project-3-critiques channel in our Discord server - see myCourses dropbox for the due date
+- Checkpoint: Create a working draft of the project. Post it to you Crit Group channel in our Slack workspace - see myCourses dropbox for the due date
 - Final project deliverable is due final exam week - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the myCourses dropbox. 
-    - Part of the final deliverable includes a demonstration of your game.  You may do this in one of two ways:
-        1. You may create a short video demo by recording your computer screen while using a tool such as OBS.  http://obsproject.com
+    - Part of the final deliverable includes a demonstration of your game.  
+        1. You should create a short video demo by recording your computer screen while using a tool such as OBS.  http://obsproject.com
  Submit this video by uploading it to YouTube as an unlisted video.  Ideally, you should explain your project with a voice-over, however if you do not wish to do that, you can upload your description as a separate file to the dropbox.
-        1. You may schedule a Zoom or Discord chat with the professor on either May 4th or May 5th.
+        1. If you have technical issues that prevent you from doing this, you may schedule a Zoom chat with your course instructor to demonstrate your finished project (which they may then record to be able to refer to during grading).
 
 ## V. Proposal
 We would like you to write a brief game treatment for your Project 3 Proposal:
@@ -103,20 +102,18 @@ Here is a template document of sorts, once used in another class. It contains so
 
 ## VI. Documentation
 - When you're ready to hand in your document (and actually throughout the development process), add your documentation to the same web page that you created just above for your proposal. Include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements.
-- If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## VII. Video Demonstration
-During final exam week, you will present your project in a brief demo. Plan to show us:
+During final exam week, you will present your project in a brief video demo. Plan to show us:
 - What you made.
 - How it works.
 - What's cool, and what you think is "above and beyond"
 - How you overcame any serious challenges.
 - Resources utilized (for libraries, tutorials, etc.), if you used any.
 
-**You have two alternatives for how to deliver this demo as described above in the Milestones section.**
+**There is an alternative if you have technical issues with making your own video as described above in the Milestones section.**
 
 ## VIII. Grading
-- *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 ### Your project grade will be split into two parts.
 - 1/2 of your overall score will be assessed based on the video demo that you provide.
