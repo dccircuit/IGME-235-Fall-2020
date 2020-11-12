@@ -54,7 +54,7 @@ For this project you are creating a JavaScript driven Web application that utili
     - Rick and Morty API (REST version): https://rickandmortyapi.com/documentation
     - Magic the Gathering API: https://docs.magicthegathering.io/
     - Open Trivia DB API: https://opentdb.com/api_config.php
-    - Discography API: https://www.discogs.com/developers/
+    - ~~Discography API: https://www.discogs.com/developers/~~ See slack channel "#api-chat-discogs"
     - Mixcloud (This is a little more complicated): https://www.mixcloud.com/developers/
     
   - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly well organized. 
