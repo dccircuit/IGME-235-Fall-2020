@@ -77,7 +77,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
-#### Recent Games - Spring 2020 (mixed -- some DOM, some PixiJS)
+#### Recent Games - Spring 2020
 - Pond King - https://people.rit.edu/mdb4220/235/Project%203/index.html
 - Mine Sweeper - https://people.rit.edu/dmd7488/235/Project3/
 - Alpine Survival - https://people.rit.edu/nfb1799/235/project3/index.html
@@ -85,11 +85,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Alien Cereal - https://people.rit.edu/lep2738/235/project-3/game/game.html
 - Brick Breaker - https://people.rit.edu/kst4052/235/project-3-bricks/game.html
 
-#### Recent Games - Fall 2019 (mixed -- some DOM, some PixiJS)
+#### Recent Games - Fall 2019
 - Temple Tiles - https://people.rit.edu/rdt7867/235/project3/
 - &mu;Karts - https://people.rit.edu/afb3535/235/Project1/pages/project.html
 - Cryptbreaker - https://people.rit.edu/jtb6154/235/project3/
-- Color-By-Number - https://people.rit.edu/mab7367/235/project3/
 - Dungeon Decent - https://people.rit.edu/txa7348/235/project1/project.html
 - Spleeper - https://people.rit.edu/daj6462/235/project1/project
 - Idle Arcana - https://people.rit.edu/kct2548/235/idle_arcana/
@@ -111,13 +110,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Bermuda Treasure - https://people.rit.edu/kiz8980/235/project3/project.html
 - Nascency: Battle of the Alchemists - https://people.rit.edu/cre1467/235/project1/game.html
 
-#### Previous DOM Games:   
+#### Previous Games:
 - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
-- Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
-
-#### Previous PixiJS Sprite Games:
 - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
-- Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
 - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
 - Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
 - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
